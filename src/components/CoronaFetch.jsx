@@ -84,7 +84,7 @@ const CoronaFetch = () => {
                   count = {23}
                   onChange={(_, value) => {
                     setCut(value);
-                    window.scroll(0,350);
+                    window.scroll(0, -450);
                   }}
                   />
         </>
